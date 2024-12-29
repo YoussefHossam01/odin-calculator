@@ -1,0 +1,13 @@
+* ::before,
+* ::after,
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: content-box;
+    
+}
+
+body {
+    border: 10px solid red;
+    display: flex;
+}
